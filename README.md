@@ -1,1 +1,0 @@
-# decentraland-trigger-elevator
